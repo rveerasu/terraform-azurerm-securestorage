@@ -10,6 +10,6 @@ variable "name" {
   type = string
 }
 
-variable "environment" {
+variable "environments" {
   type = string
 }
